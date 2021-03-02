@@ -1,23 +1,14 @@
 ### Hi there 👋
-
-I'm Brendan and I'm a designer and developer from St. Charles, MO.
+I'm Brendan and I'm a UX Designer and hobbyist developer from St. Charles, MO.
 
 #### Current Projects 🔭
-
-Currently I'm working on some projects as a developer with [World Wide Technology](https://www.wwt.com), building some great tools for creating all that technology content.
+I work as a UX Architect during the day, specifically in the agriculture and data visualzation space.  After hours I like to write code and build apps for fun.  My current sprint is getting a basic design system generator up and running.  Will post a link when it's published 🎨.
 
 #### Learning 🌱
-Currently learning Vue.js as that's our tool of choice.  I recently converted my personal site [brendanbax.com](https://www.brendanbax.com) to Nuxt using Vue.
+I recently converted my personal site [brendanbax.com](https://www.brendanbax.com) to Nuxt using Vue.  I'm reading "[UX for Lean Startups](https://www.amazon.com/UX-Lean-Startups-Experience-Research/dp/1492049581/ref=sr_1_5?dchild=1&hvadid=77996660505929&hvbmt=be&hvdev=c&hvqmt=e&keywords=lean+ux+for+startups&qid=1614647920&sr=8-5)" at the moment and loving it.
 
 #### Fun Facts ⚡
 I used to be a licensed realtor, hand-dyed yarn, and taught at a college
 
-<!--
-**brendanbax/brendanbax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--->
+#### 💬 Ask me about
+User interface design, design systems, user research, human centered design, and design sprints.
