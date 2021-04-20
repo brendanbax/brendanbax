@@ -1,14 +1,7 @@
-### Hi there 👋
-I'm Brendan and I'm a UX Designer and hobbyist developer from St. Charles, MO.
+Hey I'm Brendan and I'm a designer and developer.
 
-#### Current Projects 🔭
-I work as a UX Architect during the day, specifically in the agriculture and data visualzation space.  After hours I like to write code and build apps for fun.  My current sprint is getting a basic design system generator up and running.  Will post a link when it's published 🎨.
+I started out studying 3D modeling and game art in college.  After graduating I spent time as a graphic designer before knuckling down and learning to code.
 
-#### Learning 🌱
-I recently converted my personal site [brendanbax.com](https://www.brendanbax.com) to Nuxt using Vue.  I'm reading "[UX for Lean Startups](https://www.amazon.com/UX-Lean-Startups-Experience-Research/dp/1492049581/ref=sr_1_5?dchild=1&hvadid=77996660505929&hvbmt=be&hvdev=c&hvqmt=e&keywords=lean+ux+for+startups&qid=1614647920&sr=8-5)" at the moment and loving it.
+Currently I work as a UX Architect doing human-centered design with a bigger corporation in St. Louis.  I really like web development and enjoy writing HTML, CSS, and JavaScript (Vue and React).  I feel like I shine best on front-end apps because of my design background and passion for inclusive usability.
 
-#### Fun Facts ⚡
-I used to be a licensed realtor, hand-dyed yarn, and taught at a college
-
-#### 💬 Ask me about
-User interface design, design systems, user research, human centered design, and design sprints.
+I'd like to collaborate on some cool projects: 2D games, 3D games, anything iOS, React web stuff.
