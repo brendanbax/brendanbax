@@ -1,6 +1,8 @@
 Hey I'm Brendan and I'm a digital maker.
 
-I started out studying 3D modeling and game art in college.  After graduating I spent time as a graphic designer before knuckling down and learning to code.
+I studied Computer Animation and Game Aart at Full Sail University back in 2010.
+
+After graduating I spent time as a graphic designer before knuckling down and learning to code.
 
 Currently I work as a UX Architect doing human-centered design in St. Louis, MO and in my free time I'm taking Harvard's CS50x, and learning Swift.
 
