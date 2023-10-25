@@ -1,1 +1,1 @@
-Hey I'm Brendan and I build apps with JavaScript.
+Hey I'm Brendan and I design and build apps with JavaScript.
